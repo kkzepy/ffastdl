@@ -1,0 +1,11 @@
+{
+    "dl_btn_pos": [677, 295],
+
+    "close_ad_page": true,
+    "open_link_sleep": 3.2,
+    "redirect_sleep": 1.5,
+    
+    "max_sessions": 3,
+    "sessions_timeout": 300.0,
+    "download_path": "G:/Downloads/"
+}
